@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RemindApp</string>
+    <string name="hint_main_title">Enter the topic</string>
+    <string name="label_main_half">HALF</string>
+    <string name="label_main_one">ONE</string>
+    <string name="label_main_two">TWO</string>
+    <string name="label_main_four">FOUR</string>
+    <string name="label_main_submit">SUBMIT</string>
+</resources>
